@@ -40,7 +40,7 @@ public class MainMenuScript : MonoBehaviour {
 
 	public void Play()
 	{
-		SceneManager.LoadScene ("Game");
+		SceneManager.LoadScene ("LevelSelect");
 	}
 
 	public void ControlMenu()
