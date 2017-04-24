@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}</ProjectGuid>
+    <ProjectGuid>{CFE1CD53-03B1-128D-CF13-980C456F8332}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\Jumppad.cs" />
      <Compile Include="Assets\Scripts\KeyBindScript.cs" />
      <Compile Include="Assets\Scripts\KeyItem.cs" />
+     <Compile Include="Assets\Scripts\Lava.cs" />
      <Compile Include="Assets\Scripts\LevelSelectController.cs" />
      <Compile Include="Assets\Scripts\MainMenuScript.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
